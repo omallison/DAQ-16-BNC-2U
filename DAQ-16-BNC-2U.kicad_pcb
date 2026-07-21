@@ -9246,7 +9246,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "63.5 mm"
+		(gr_text "2.5 in"
 			(at 249.04 92.075 90)
 			(layer "User.1")
 			(uuid "203be38b-934e-4486-9e60-a0359535e73c")
@@ -9284,7 +9284,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "38.1 mm"
+		(gr_text "1.5 in"
 			(at 36.315 92.075 90)
 			(layer "User.1")
 			(uuid "d634ae03-70c7-4eb7-8d32-3297760da1d0")
@@ -9322,7 +9322,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "196.85 mm"
+		(gr_text "7.75 in"
 			(at 139.7 40.76 0)
 			(layer "User.1")
 			(uuid "e1c26202-2144-441d-adee-e5c152644fc1")

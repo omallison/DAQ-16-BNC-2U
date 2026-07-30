@@ -181,7 +181,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5787686&DocType=Customer+Drawing&DocLang=English"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -203,18 +203,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/D_sub"
-			(at 0 0 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "55bf795a-f8eb-4779-9d13-85602bd77a2b")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -245,23 +233,10 @@
 				)
 			)
 		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5787686-1/1279893"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "23e3676d-99f0-4434-857c-775d9ad5c646")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "DSUB*Pins*")
 		(path "/d18046e3-4092-46e0-8cef-9069fe0cdb20")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 34.76 -3.828744)
@@ -1146,22 +1121,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c0c5beee-901d-41b3-a5f6-d0b1a859bb94")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/8f8b0ff0-defc-4cb6-b285-e989210ee1e5")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1264,22 +1227,10 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-6GEY0R00V"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1487929e-cd80-436d-b33c-8c001b34e84b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/1fec59c8-d3b4-4064-ba2a-ec8b832e99a7")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
@@ -1476,22 +1427,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b85c5c51-9f9f-4a0e-a4ea-4a00d64cf52f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/6e7d436d-4ad7-479f-8c91-ff8c9a2a21c2")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1593,22 +1532,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "b05d2264-6791-4a1f-b16a-1f21d783cdb2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/1fa1792b-16fe-457f-9abd-c64609a982a4")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1711,22 +1638,10 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-6GEY0R00V"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8d7d258a-d7bf-4949-86f4-5bbef650875b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/de188943-3c52-4595-abac-60871d64a60b")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
@@ -1926,46 +1841,9 @@
 				)
 			)
 		)
-		(property "Sim.Enable" "0"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0561fb97-3912-424f-8a8a-daf85bf4cff3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a8469221-7b0b-4a16-a88c-5873c0ba7995")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Field6" "${REFERENCE}"
-			(at 0 2.5 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f3c12690-0903-46aa-8e84-ffddccb4690b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/694cb7fd-4ffa-444b-9fd1-65c906d099de")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr smd exclude_from_bom)
 		(fp_poly
 			(pts
@@ -3180,22 +3058,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d012670a-9db8-41f2-be12-fe58e798f1f4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/3ec10b07-e7fe-41e6-a2ce-292c27e79daf")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3297,22 +3163,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "1a49e5cc-1792-42e1-adad-9ef6d41b9143")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/6250f8c5-150e-44d9-901d-876bb9c054b4")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3414,22 +3268,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "410eaa34-9917-4c98-a635-b282b9923fe6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ce1f2a47-88d8-4f37-9e01-ff99d2e46b62")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3532,22 +3374,10 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-6GEY0R00V"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "96fec0fe-cd1e-4aed-b499-baab31bd534c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
 		(path "/5f05a56c-06f6-48f6-9286-bcb671487208")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.227064 0.735)
@@ -3744,22 +3574,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9b3a6ff7-4ee3-4144-97b3-d308110efa75")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/20170fe8-1291-4c92-b2db-8b09cd0c670d")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3861,22 +3679,10 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c31ec943-3f01-4dae-bcb9-4908008d1f69")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/710b4baa-35c7-4b7f-8956-593a98576287")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3955,7 +3761,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&DocFormat=pdf&PartCntxt=5227222-2"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4011,24 +3817,10 @@
 				(justify mirror)
 			)
 		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c0c2d363-59da-4579-9c47-9dd17abeaa7f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/b272626b-f649-46d9-a776-723bb1ce4070")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -4271,7 +4063,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4294,20 +4086,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "36ed7b86-f301-4d14-8aa1-d912f0d1e88f")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -4344,7 +4122,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/ac888fa7-37d9-44a1-954f-a29ff8633283")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -4587,7 +4365,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4610,20 +4388,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "5f0e436e-4012-42f3-9733-bcc6b1ea2b7a")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -4660,7 +4424,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/4e6296ac-216a-4f6b-a26b-07d9c2690706")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -4903,7 +4667,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4926,20 +4690,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "12882562-7d85-4f2a-9df2-a7d21d4cf170")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -4976,7 +4726,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/9463313b-a48a-4e4b-acf2-8d8de5ef8cd4")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -5219,7 +4969,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5242,20 +4992,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "ce15916f-5461-41c2-a8e7-91cd9846ddb8")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -5292,7 +5028,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/af69eca9-b9b2-4e1e-9e20-90c4e856e7d3")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -5535,7 +5271,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5558,20 +5294,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "e4c87ae8-f0ce-410c-9634-fdfdf4c00d7e")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -5608,7 +5330,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/59d8f9f9-0743-427d-95fe-c33a7d34ebc4")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -5851,7 +5573,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5874,20 +5596,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "4f9062a9-e4ba-425d-a7e1-3aacf23149f7")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -5924,7 +5632,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/2ac350a1-5983-427b-ace7-1ec27c369598")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -6167,7 +5875,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6190,20 +5898,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "88027e4e-3def-4283-a068-5955d77c604b")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -6240,7 +5934,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/ee785eaf-88a7-4401-a909-9080821d7a4b")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -6483,7 +6177,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6506,20 +6200,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "6705d767-277b-4105-8781-21491c824d32")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -6556,7 +6236,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/bb026e12-d6af-4e12-b579-5f92fd51a2a4")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -6799,7 +6479,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6822,20 +6502,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "ccb1927d-47d1-49f6-b485-c56d21b7edb0")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -6872,7 +6538,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/ab0d0465-2439-408e-96dd-e9bedd28322d")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -7115,7 +6781,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7138,20 +6804,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "aec4e921-c8e2-4596-862d-b984c9cef2cc")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -7188,7 +6840,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/773eea6a-9c47-4a8d-a388-626994eb0460")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -7431,7 +7083,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7454,20 +7106,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "038b0ddd-d9b5-4b47-bf0e-e763f45bf5b1")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -7504,7 +7142,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/8287bd4a-eaf5-45d8-81f8-850ff6d02829")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -7747,7 +7385,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7770,20 +7408,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "faaf42da-8ff5-4389-b52d-19a6cdb3147c")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -7820,7 +7444,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/1c1b75de-0a7a-4265-b3b8-d8940023f633")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -8063,7 +7687,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8086,20 +7710,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "b9488a92-c76b-4822-9add-b002dd5351bb")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -8136,7 +7746,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/a9ef60a7-ec0e-4499-b6d0-9fbeed1efe9d")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -8379,7 +7989,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8402,20 +8012,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "ec62db54-8962-4608-9558-e00ab6273c46")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -8452,7 +8048,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/13efa63b-81d8-4f18-baaa-89578b21f23a")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -8695,7 +8291,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1307191_BNC_Connectors&DocType=Catalog%20Section&DocLang=English&PartCntxt=5227222-2&DocFormat=pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8718,20 +8314,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "DigiKey" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227222-2/811145"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c5c262a6-e638-4cf6-a8e3-1969e75dc175")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -8768,7 +8350,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/80820ab9-7292-410f-aa99-9c80e342c73d")
 		(sheetname "/")
-		(sheetfile "Quartz-bnc-breakout.kicad_sch")
+		(sheetfile "DAQ-16-BNC-2U.kicad_sch")
 		(solder_mask_margin 0)
 		(clearance 0)
 		(attr through_hole)
@@ -9222,7 +8804,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "User.1")
+		(layer "User.4")
 		(uuid "203be38b-934e-4486-9e60-a0359535e73c")
 		(pts
 			(xy 238.125 60.325) (xy 238.125 123.825)
@@ -9248,7 +8830,7 @@
 		)
 		(gr_text "2.5 in"
 			(at 249.04 92.075 90)
-			(layer "User.1")
+			(layer "User.4")
 			(uuid "203be38b-934e-4486-9e60-a0359535e73c")
 			(effects
 				(font
@@ -9260,7 +8842,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "User.1")
+		(layer "User.4")
 		(uuid "d634ae03-70c7-4eb7-8d32-3297760da1d0")
 		(pts
 			(xy 50.8 111.125) (xy 50.8 73.025)
@@ -9286,7 +8868,7 @@
 		)
 		(gr_text "1.5 in"
 			(at 36.315 92.075 90)
-			(layer "User.1")
+			(layer "User.4")
 			(uuid "d634ae03-70c7-4eb7-8d32-3297760da1d0")
 			(effects
 				(font
@@ -9298,7 +8880,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "User.1")
+		(layer "User.4")
 		(uuid "e1c26202-2144-441d-adee-e5c152644fc1")
 		(pts
 			(xy 41.275 56.515) (xy 238.125 56.515)
@@ -9324,7 +8906,7 @@
 		)
 		(gr_text "7.75 in"
 			(at 139.7 40.76 0)
-			(layer "User.1")
+			(layer "User.4")
 			(uuid "e1c26202-2144-441d-adee-e5c152644fc1")
 			(effects
 				(font

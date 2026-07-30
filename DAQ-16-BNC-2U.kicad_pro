@@ -539,7 +539,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "DAQ-16-BNC-2U.step",
       "svg": "",
       "vrml": ""
     },

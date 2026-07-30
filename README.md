@@ -10,3 +10,9 @@ Made in KiCad 9.0.7
 ## Panel Diagram
 
 <img width="3654" height="1161" alt="image" src="https://github.com/user-attachments/assets/38b5d7bd-d50b-47da-b27e-ed4d8679c42c" />
+
+## PCB Screen Capture
+
+<img width="1067" height="482" alt="image" src="https://github.com/user-attachments/assets/ac23977b-a0db-4fb0-8d01-7be1f05dc610" />
+
+<img width="1229" height="467" alt="image" src="https://github.com/user-attachments/assets/64779e0c-3cc6-4338-a17b-ae9d6882991f" />
